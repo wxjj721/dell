@@ -1,6 +1,6 @@
-ap-northeast-1.run.claw.cloud/signin      metaligh/3x-ui    80/2053       /etc/x-ui/       /etc/letsencrypt/
-replit.com         bivit10443@clubemp.com    fork  replit.com/@yonggekkk       linitef764@ovobri.com
-idx.google.com     bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh) 
+ap-northeast-1.run.claw.cloud/signin      metaligh/3x-ui    80/2053       /etc/x-ui/       /etc/letsencrypt/ 
+replit.com         bivit10443@clubemp.com    fork  replit.com/@yonggekkk       linitef764@ovobri.com 
+idx.google.com     bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)  
 
 vless://2e9fb2d1-62ef-40a8-a735-3b58edd@etubaaghzign.ap-northeast-1.clawcloudrun.com:443?encryption=none&security=tls&sni=etubaaghzign.ap-northeast-1.clawcloudrun.com&type=ws&host=etubaaghzign.ap-northeast-1.clawcloudrun.com&path=%2F%3Fed%3D2560#c7ccd9
 vless://01f3adee-0ace-4f2b-af5c-d2765@104.16.160.12:2096?encryption=none&security=tls&sni=word-6se.pages.dev&fp=randomized&allowInsecure=1&type=ws&host=word-6se.pages.dev&path=%2F%3Fed%3D2560#b
