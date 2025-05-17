@@ -8,17 +8,15 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 https://api.github.com/users/         
 powercfg -h off        
 chrome.exe"  -incognito         
+
 https://my.vultr.com  
 https://www.oracle.com/cloud/sign-in.html     
 https://app.cloudcone.com.cn/?ref=2444   
 https://nerdvm.racknerd.com/login.php   
 
 https://dash.cloudflare.com/login    icook.tw/443/8443/2053/2083/2087/2096   linitef764@ovobri.com 
-
 https://idx.google.com     bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)  
-
 https://replit.com/login     fork：replit.com/@yonggekkk           bivit10443@clubemp.com  
-
 https://ap-northeast-1.run.claw.cloud/signin  
 1,Image（镜像）选择Public    Image Name填写:  metaligh/3x-ui  
 2.网络端口设置: 开启 80 端口  添加并开启 2053 端口  
@@ -51,7 +49,3 @@ Cloudflare套CDN：  dash.cloudflare.com/login
 添加：字段：主机名   运算符：通配符   值：开启小黄云的域名  And   
 添加：字段：SSL/HTTPS    值：开启   
 目标端口：选择：重写到...vps节点端口   
-
-
-
-
