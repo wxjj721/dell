@@ -42,7 +42,7 @@ slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr /skms win.kms.pub  
 slmgr /ato  
 
-Cloudflare套CDN：  dash.cloudflare.com/login    
+Cloudflare套CDN：  dash.cloudflare.com/login  
 1. 添加DNS记录并开启小黄云  
 2. SSL/TLS加密改为完全   SSL/TLS边缘证书打开自动 HTTPS 重写  
 3. 规则/概述/创建规则/选择配置/源服务器规则Origin Rules   
