@@ -7,6 +7,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 api.github.com/users/user        powercfg -h off        chrome.exe"  -incognito      
 oracle.com/cloud/sign-in.html    my.vultr.com      app.cloudcone.com.cn/?ref=2444      nerdvm.racknerd.com   
+https://dash.cloudflare.com/login   https://my.vultr.com  
 
 dash.cloudflare.com/login        linitef764@ovobri.com        icook.tw/443/8443/2053/2083/2087/2096   
 
