@@ -33,7 +33,7 @@ sudo sed -i 's/^#\?PermitRootLogin.*/PermitRootLogin yes/g' /etc/ssh/sshd_config
 sudo sed -i 's/^#\?PasswordAuthentication.*/PasswordAuthentication yes/g' /etc/ssh/sshd_config   
 sudo rm -rf /etc/ssh/sshd_config.d/*   
 sudo service sshd restart   
-###  systemctl enable ssh.service  
+systemctl enable ssh.service  
 
 slmgr.vbs /upk  
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX  
