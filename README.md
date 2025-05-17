@@ -5,8 +5,13 @@ vless://01f3adee-0ace-4f2b-af5c-d2765@104.16.160.12:2096?encryption=none&securit
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)          
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh  
 
-api.github.com/users/user        powercfg -h off        chrome.exe"  -incognito      
-https://my.vultr.com  https://www.oracle.com/cloud/sign-in.html  https://app.cloudcone.com.cn/?ref=2444  https://nerdvm.racknerd.com/login.php  
+api.github.com/users/user        
+powercfg -h off        
+chrome.exe"  -incognito         
+https://my.vultr.com  
+https://www.oracle.com/cloud/sign-in.html     
+https://app.cloudcone.com.cn/?ref=2444   
+https://nerdvm.racknerd.com/login.php   
 
 https://dash.cloudflare.com/login    icook.tw/443/8443/2053/2083/2087/2096   linitef764@ovobri.com 
 
