@@ -6,10 +6,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh  
 
 api.github.com/users/user        powercfg -h off        chrome.exe"  -incognito      
-oracle.com/cloud/sign-in.html    my.vultr.com      app.cloudcone.com.cn/?ref=2444      nerdvm.racknerd.com   
-https://my.vultr.com  
-
-
+https://my.vultr.com  https://www.oracle.com/cloud/sign-in.html  https://app.cloudcone.com.cn/?ref=2444  https://nerdvm.racknerd.com/login.php  
 
 https://dash.cloudflare.com/login    icook.tw/443/8443/2053/2083/2087/2096   linitef764@ovobri.com 
 
