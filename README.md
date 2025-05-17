@@ -14,7 +14,7 @@ https://www.oracle.com/cloud/sign-in.html
 https://app.cloudcone.com.cn/?ref=2444   
 https://nerdvm.racknerd.com/login.php   
 
-https://dash.cloudflare.com/login    icook.tw/443/8443/2053/2083/2087/2096   linitef764@ovobri.com 
+https://dash.cloudflare.com/login    icook.tw/443/8443/2053/2083/2087/2096  linitef764@ovobri.com   
 https://idx.google.com     bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)  
 https://replit.com/login     fork：replit.com/@yonggekkk           bivit10443@clubemp.com  
 https://ap-northeast-1.run.claw.cloud/signin  
