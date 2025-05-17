@@ -7,13 +7,15 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 api.github.com/users/user        powercfg -h off        chrome.exe"  -incognito      
 oracle.com/cloud/sign-in.html    my.vultr.com      app.cloudcone.com.cn/?ref=2444      nerdvm.racknerd.com   
-dash.cloudflare.com/login   https://my.vultr.com  
+https://my.vultr.com  
 
-dash.cloudflare.com/login        linitef764@ovobri.com        icook.tw/443/8443/2053/2083/2087/2096   
 
-idx.google.com      bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)  
 
-replit.com       fork：replit.com/@yonggekkk           bivit10443@clubemp.com  
+https://dash.cloudflare.com/login       linitef764@ovobri.com        icook.tw/443/8443/2053/2083/2087/2096   
+
+https://idx.google.com     bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)  
+
+https://replit.com/login     fork：replit.com/@yonggekkk           bivit10443@clubemp.com  
 
 clawcloud     ap-northeast-1.run.claw.cloud/   
 1,Image（镜像）选择Public    Image Name填写:  metaligh/3x-ui  
