@@ -17,7 +17,7 @@ https://idx.google.com     bash <(wget -qO- https://raw.githubusercontent.com/yo
 
 https://replit.com/login     fork：replit.com/@yonggekkk           bivit10443@clubemp.com  
 
-clawcloud     ap-northeast-1.run.claw.cloud/   
+https://ap-northeast-1.run.claw.cloud/signin  
 1,Image（镜像）选择Public    Image Name填写:  metaligh/3x-ui  
 2.网络端口设置: 开启 80 端口  添加并开启 2053 端口  
 3,Local Storage（本地存储）本地挂载两个目录: /etc/x-ui/   /etc/letsencrypt/  点击 Deploy Application 部署应用   
