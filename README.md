@@ -11,7 +11,7 @@ https://my.vultr.com
 
 
 
-https://dash.cloudflare.com/login       linitef764@ovobri.com        icook.tw/443/8443/2053/2083/2087/2096   
+https://dash.cloudflare.com/login    icook.tw/443/8443/2053/2083/2087/2096   linitef764@ovobri.com 
 
 https://idx.google.com     bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)  
 
